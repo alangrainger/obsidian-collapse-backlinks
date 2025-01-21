@@ -1,0 +1,11 @@
+{
+	"id": "collapse-backlinks",
+	"name": "Collapse Backlinks",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically collapse the backlinks list when you open a note.",
+	"author": "Alan Grainger",
+	"authorUrl": "https://github.com/alangrainger",
+	"fundingUrl": "https://ko-fi.com/alan_",
+	"isDesktopOnly": false
+}
