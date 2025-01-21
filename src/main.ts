@@ -6,7 +6,7 @@ export default class CollapseBacklinks extends Plugin {
       if (file) {
         // Click the icon to collapse the backlinks
         // @ts-expect-error
-        window.document.querySelector('div.embedded-backlinks [aria-label="Collapse results"]:not(.is-active)')?.click()
+        document.querySelector('div.embedded-backlinks [aria-label="Collapse results"]:not(.is-active)')?.click()
       }
     }))
   }
